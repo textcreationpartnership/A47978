@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a country minister to some neighbouring-clergy concerning the usual resort of his parishioners to other churches in contempt of their own.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47978</idno>
+            <idno type="STC">Wing L1372</idno>
+            <idno type="STC">ESTC R218604</idno>
+            <idno type="EEBO-CITATION">99830181</idno>
+            <idno type="PROQUEST">99830181</idno>
+            <idno type="VID">34631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2033:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a country minister to some neighbouring-clergy concerning the usual resort of his parishioners to other churches in contempt of their own.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Walter Kettilby, at the Bishop's Head in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at head: March the 27th. 1684.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:34631:1" rendition="simple:additions"/>
+            <head>A LETTER From a Country Miniſter to ſome Neighbouring-Clergy concerning the uſual reſort of his Pariſhioners to other Churches in contempt of their own.</head>
+            <opener>
+               <date>
+                  <hi>March the</hi> 27th. 1684</date>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Underſtand there are ſeveral of my Pariſhioners, who, becauſe they are not ſuffered to have their humor to meet in their forbidden Conventicles, are reſolved, if they can Shift it, not to come to their own Pariſh-Church; And therefore in Contempt thereof, and their own Miniſter, do commonly take Sanctuary in your Pariſh, and many of them reſort to your Church for ſhelter and protection againſt the Laws: And not only ſo, but, as I am told, intend further, (if you will be ſo eaſy as to admit them) to receive the Communion at your hands this next <hi>Eaſter</hi>: And thereupon obtain your Certificate to evade the Penalties juſtly inflicted upon them for their obſtinate, wilful refuſing to come to their own Pariſh-Church. Poſſibly you may not be aware of this, and therefore I give you this friendly Caution, and requeſt you by no means to admit any of my Pariſhioners to Communion, nor ſo much as ſuffer them to come cuſtomarily to your Church, but warn them home to their own Pariſh-Church and Miniſter, whoſe Charge they are, and to whoſe inſpection they are Committed. For give me leave to tell you, that their uſual reſort to any other Church but their own, and any Miniſters allowance and encouragement thereof, is quite contrary to the Orders, Canons and Con<g ref="char:EOLhyphen"/>ſtitutions of our Church, which permits none to neglect their Pariſh-Church, unleſs by ſickneſs or other moſt urgent cauſes they be letted there<g ref="char:EOLhyphen"/>from. And this with great reaſon to avoid unſpeakable Confuſion, the natural reſult of all Independency. And therefore you will find in Queen <hi>Elizabeths</hi> Injunctions, both to the Clergy and Laity of this Realm, 1559. §. 33. That it is expreſly Commanded, That no Perſon ſhall, neg<g ref="char:EOLhyphen"/>lecting their own Pariſh-Church, reſort to any other Church in time of Common-Prayer and Preaching, except it be by the occaſion of ſome extraordinary Sermon in ſome Pariſh of the ſame Town. And in the Articles for enquiry in the firſt year of her Reign, one was, whether you know any that in contempt of their own Pariſh-Church, reſort to any other Church. And to the ſame purpoſe doth the Homily of the Right uſe of the Church, ſpeak. And in the Statute of the firſt of <hi>Elizabeth,</hi> being her Act for Uniformity, 'tis enjoyn'd, That all and every Perſon and Perſons inhabiting within this Realm, ſhall diligently and faithfully, having no Lawful or reaſonable excuſe to be abſent, reſort to their Pariſh<g ref="char:EOLhyphen"/>Church or Chappel accuſtomed; or upon reaſonable Lett thereof, to ſome uſual place where Common-Prayer and ſuch Service of God ſhall be uſed in ſuch time of Lett, upon every <hi>Sunday</hi> and Holy-day, &amp;c. And the like is obſervable in <hi>Stat.</hi> 5 and 6. <hi>Ed.</hi> 6. <hi>c.</hi> i. All which make it plain, that unleſs there be a reaſonable Lett or Lawful impediment to keep them from coming to their own Pariſh-Church, they are not allowed to go to any other. Purſuant to which Orders, Injunctions and Statutes, 'tis Ordained in the 28<hi>th.</hi> Canon (which our Oath of Canonical Obedience obliges us all to take notice of) that both Miniſter and Church-Wardens, &amp;c. of every Pariſh, ſhall mark whether any ſtrangers come often and commonly from other Pariſhes to their Church, left perhaps they be admitted to the Lords Table among others, which they ſhall forbid, and remit ſuch home to their own Pariſh-Churches and Miniſter, there to receive the Communion with the reſt of their own Neighbours. And more<g ref="char:EOLhyphen"/>over the 57<hi>th.</hi> Canon, to obviate the ill practices of ſuch as refuſe the Sacraments at the hands of unpreaching Miniſters, permits none to leave their own Pariſh-Churches, and to Communicate, or cauſe their children to be Baptized in other Pariſhes abroad, under pain of ſuſpenſion, and, after a Months obſtinacy, Excommunication, if they do the contrary : And expreſly ſays, That if any Parſon, Vicar, or Curate, ſhall either receive to the Communion any ſuch Perſons which are not of their own Pariſh, or ſhall Baptize any of their Children, let him be Suſpended, and not be releaſed thereof, until he doth faithfully promiſe that he will not afterwards Offend therein.</p>
+            <p>Now it being my deſign to Cure my Pariſh of Independency, which in a great meaſure owes its riſe to this vagrant and looſe practice of running from one Church to another, and which has been the great and long diſeaſe thereof (it having been ſo late and Common a practice among them to gather Churches out of other Churches, and draw other mens Pariſhioners to their Conventicles) I cannot ſo eaſily, readily, and effectually do it, without the Concurrence and aſſiſtance of the Neighbour Clergy, to whoſe Churches in contempt of their own, they uſually repair for refuge. And therefore, Sir, among others, I muſt Intreat you not to harbour, countenance, or abet them in this Licen<g ref="char:EOLhyphen"/>tious practice of theirs, by admitting them ordinarily to your Church, where they have nothing to do but to fill up the ſeats of your own Pa<g ref="char:EOLhyphen"/>riſhioners, who by their ill example (eſpecially ſeeing their own places taken up by ſtrangers) may be tempted to ſtraggle abroad to other Pariſhes, to your great grief and diſappointment, if you have any regard to their Souls, and be concerned to give an account of them. Should I obſerve any of your Pariſhioners to reſort commonly to my Church, I ſhould think my ſelf obliged to give them publick warning to forbear coming, and openly declare, that in caſe of Proſecution for their neglect of their own Pariſh-Church, I would grant them no Certificates to baffle and defeat it, and elude their obligation to reſort thereunto; And the ſame thing I would have you do to mine, if you ſee they make it their common practice to leave their own Pariſh-Church to come to yours. And this will effectually cut off all expectances and hopes of Protection any where but at their own Church; And then ſeeing themſelves under a neceſſity, they will be the more ready to comply, and ſubmit in a more orderly way to regular Inſtruction and Government. There are many Lawful occaſions that at one time or other unavoidably happen to gratifie peoples curioſity of going to other Churches (which they ought to reſt contented with) as when they are upon a journey; when there is nothing to do at their own Pariſhes by reaſon of their Miniſters ſickneſs or abſence ; when they are requeſted to be Sureties for a friends Child in another Pariſh, and the like; but for people ordinarily and cuſtomarily to forſake their own Pariſh-Church to go to others, when there is no ſuch urgent occaſion and preſſing neceſſity, perhaps out of prejudice or wantonneſs, when the humour takes them; or they have ſome little pet or private grudge at their own Miniſter; or cauſeleſly diſlike his regular Adminiſtration; or are aſhamed to appear at that place which they had ſo long before abandoned; or out of a diſreliſh to the publick Service it ſelf, which they know they may be preſent at in ſome places in any faſhion, and in ſuch a manner as rather ſhews their diſlike and diſreſpect, then any kindneſs or reverence they have for it, without any notice taken of their behaviour: This is Factiouſly, Schiſmatically, or Wantonly to deſert their own Pariſh-Church. For the Law grounded upon great reaſon and prudence has put them under the Care and Inſpection of their own proper Guides, who are reſponſible for them both to God and Man, and how is it poſſible either for you or me to give a comfortable and ſatisfactory account of our reſpective Flocks committed to our Charge, if we ſuffer them to ſtray from their own Folds without remanding them home, and taking a particular care of them. 'Tis the part of a good Shepherd to keep his Sheep together, and not ſuffer them to endanger their own ſafety and his Credit, by ſtragling from their own proper Fold, or unſeaſonably intermixing with others that belong not to them, and you know the Analogy holds good as to us, for we have the ſame Relation to our reſpective people. When one Mans Sheep or Cattle break Paſture and ramble into anoher Mans Ground, the Owner has Commonly notice thereof, and if he do not thereupon take them out, they are put into the Pound. And ſhould many of my ſtragling Pariſhioners be ſo dealt with by thoſe upon whom they treſpaſs, and into whoſe Incloſures they break, they would quickly learn to know and keep their own bounds, and I ſhould be abundantly the more ſatisfied there<g ref="char:EOLhyphen"/>with. For, beſides that Briefs, and other ſuch like occaſions of Charity, and Publick buſineſſes are great loſers by their abſence from their own Churches, there are many other great evils and Miſchiefs attending it, for under pretence of going to other Pariſh-Churches many looſe people take occaſion to run into private Conventicles, or haunt blind Tipling-houſes, to ſay nothing worſe; or idle and loyter away their time in the Fields, or are watching an opportunity to do their Neighbour a Miſchief; and we have no ſecurity to the contrary while we ſuffer them to ſtraggle; but when they appear at their own Pariſh-Church (where there are thoſe that are obliged to take notice of them) we are ſure that they are out of harms way. Such Ramblers therefore and Vagrants in Religion, as gad up and down from Pariſh to Pariſh, under colour of going to other Churches to Truck for Spiritual Wares, are no more to be endured in the Church, than <hi>Scotch-Pedlers, Gypſies,</hi> or other idle Vagabonds in the State, that pretend buſineſs when they deſign Miſchief; againſt which, and the harbourers of them, you know there are ſeveral ſevere Statutes. And therefore, good Sir, If you find any ſuch belonging to my Pariſh, let me intreat you to diſown and diſcourage them for the future, and ſend them home to their own Pariſh, where Care ſhall be taken that they do thoſe things that are ſitting for them, and which Authority at this time eſpecially doth exact and oblige them and us to look after and perform. The thing is ſo reaſonable and of that importance to my Pariſh, That I verily believe you will concur with me in it, and make it your own Caſe. I have uſed the kindneſs and freedom of a Friend and Brother in repre<g ref="char:EOLhyphen"/>ſenting it to you, and I am confident you will not take it ill from him who upon all honeſt and juſt occaſions will be ready to approve himſelf,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Faithful Friend, and Affectionate Brother.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London</hi>: Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul's</hi> Church-Yard. 1684</p>
+         </div>
+      </body>
+   </text>
+</TEI>
